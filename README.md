@@ -1,2 +1,2 @@
-# Covestro_Hackathon
+# Covestro Hackathon
 International Data Science Hackathon
