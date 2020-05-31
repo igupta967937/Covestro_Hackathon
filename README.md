@@ -7,7 +7,7 @@ International Data Science Hackathon
 
 • The training set only had 198 images
 
-• Achieved R2 of over 90% on the test set, thereby wining the contest
+• Achieved R2 of over 90% on the test set, thereby winning the contest
 
 ## Winner Certificate
 
